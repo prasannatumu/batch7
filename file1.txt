@@ -1,3 +1,7 @@
 line1
+
 this is from master branch
+=======
+this is from dev branch
+>>>>>>> dev
 
